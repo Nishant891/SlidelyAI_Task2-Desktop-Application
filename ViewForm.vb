@@ -147,6 +147,10 @@ Public Class ViewForm
             NextAction()
             Return True
         End If
+        If keyData = (Keys.Control Or Keys.D) Then
+            DeleteAction()
+            Return True
+        End If
         Return MyBase.ProcessCmdKey(msg, keyData)
     End Function
 

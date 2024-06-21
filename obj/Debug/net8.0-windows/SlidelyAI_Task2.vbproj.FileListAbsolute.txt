@@ -16,3 +16,4 @@ C:\Users\Nishant Sharma\source\repos\SlidelyAI_Task2\obj\Debug\net8.0-windows\Sl
 C:\Users\Nishant Sharma\source\repos\SlidelyAI_Task2\obj\Debug\net8.0-windows\ref\SlidelyAI_Task2.dll
 C:\Users\Nishant Sharma\source\repos\SlidelyAI_Task2\obj\Debug\net8.0-windows\SlidelyAI_Task2.SubmissionForm.resources
 C:\Users\Nishant Sharma\source\repos\SlidelyAI_Task2\obj\Debug\net8.0-windows\SlidelyAI_Task2.ViewForm.resources
+C:\Users\Nishant Sharma\source\repos\SlidelyAI_Task2\obj\Debug\net8.0-windows\SlidelyAI_Task2.sourcelink.json

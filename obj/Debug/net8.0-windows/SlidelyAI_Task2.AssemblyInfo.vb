@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("SlidelyAI_Task2"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f4544b64c49d2eadd5a0193541427213721116a"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81001d82ef780c16c1325ac481885a890f0a089f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("SlidelyAI_Task2"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SlidelyAI_Task2"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

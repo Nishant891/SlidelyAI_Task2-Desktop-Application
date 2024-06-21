@@ -179,9 +179,9 @@ Partial Class ViewForm
         ' 
         Button3.BackColor = Color.Red
         Button3.Font = New Font("Microsoft Sans Serif", 10.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button3.Location = New Point(147, 516)
+        Button3.Location = New Point(29, 513)
         Button3.Name = "Button3"
-        Button3.Size = New Size(234, 66)
+        Button3.Size = New Size(498, 66)
         Button3.TabIndex = 13
         Button3.Text = "DELETE (CTRL + D)"
         Button3.UseVisualStyleBackColor = False

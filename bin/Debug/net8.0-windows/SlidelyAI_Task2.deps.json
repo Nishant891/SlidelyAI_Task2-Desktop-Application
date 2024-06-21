@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SlidelyAI_Task2/1.0.0": {
+        "runtime": {
+          "SlidelyAI_Task2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SlidelyAI_Task2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -2,33 +2,20 @@
 
 ### Clone the repo locally
 
-```
+- Open Visual Studio
 
-git clone "https://github.com/Nishant891/SlidelyAI_Task2-Desktop-Application.git"
+- Click Clone repository from File
 
-```
-
-### Instalation
-  
-```
-
-cd server
-
-```
-  
+- Enter url provide below
 
 ```
 
-npm install
-
-```  
-
-### Run the Server
+git clone "https://github.com/Nishant891/SlidelyAI_Task2-Desktop-Application"
 
 ```
 
-npm run dev
+- Open Form1.vb and run the project
 
-```
+- Make sure the backend server is up and running 
 
 Thank you for the visit
